@@ -1,0 +1,8 @@
+
+
+git status - shows the current status of your repo
+git diff - shows you what changed since last commint
+git commit -m "MESSAGE HERE" - creates a message for the commit for notes
+git push origin main - pushes commits to your repository on github
+
+
